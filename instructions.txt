@@ -1,0 +1,2 @@
+to install packges: ru  pip install inside the project directory
+to run the project : python init.py
