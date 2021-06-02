@@ -24,4 +24,4 @@ requests==2.22.0
 scikit-learn==0.22
 scipy==1.4.1
 sklearn==0.0
-urllib3==1.25.7
+urllib3==1.26.5
